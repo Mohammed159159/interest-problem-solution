@@ -1,2 +1,3 @@
 # interest-problem-solution
 A program to solve a particular interest problem (read README)
+The problem was, that an initial number. The bank gives a particular interest to that number according to a plan of x number of months. If you wanted to be fare and use this same system an a "fairly" optimized way to a certain situation, you use this program to modify the interest according from the bank plan of the interest being in x number of months to the new chosen number of months, then choose your plan of compunding (period of this plan), then if the interest changes (you take from the values a number every months) provide that to calcutalt the exact total interest.
